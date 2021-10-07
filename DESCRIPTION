@@ -1,0 +1,15 @@
+Package: track2sample
+Type: Package
+Title: Choose and apply a distance threshold to convert a track to samples
+Version: 0.1.0
+Author: Paulo Correa
+Maintainer: Paulo Correa <correapvf@gmail.com>
+Description: This package will help to select and apply a distance threshold
+	for subdividng a track data in multiple segments of same length for ecological analysis.
+License: MIT + file LICENSE
+Imports:
+    data.table
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+Depends: 
+    R (>= 3.10)
